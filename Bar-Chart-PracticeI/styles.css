@@ -1,0 +1,13 @@
+body {
+  margin: 10px;
+  overflow: hidden;
+  font-family: "Commissioner", sans-serif;
+}
+
+rect {
+  fill: steelblue;
+}
+
+text {
+  font-size: 1.4em;
+}
